@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+
+Dr. R(avanasamudram). N. Uma is a Professor of Computer Science in the Department of Mathematics and Physics at North Carolina Central University, Durham, NC, USA. At NCCU, she directs the Democratizing Data Science (D^2S) Lab. Her current research and education-based interests lie at the intersection of data science and social justice and general application of AI/ML: designing solutions to address social inequities through data science, broadening participation of students from diverse disciplines and demographics in data science, and using AI/ML to solve scientific problems. Her current research projects are funded by the National Science Foundation and NASA. 
+
+Her prior research interests included scheduling and resource allocation with applications to cloud computing, robotics, wireless sensor networks, multimedia networking, and large logistics problems. Her research has spanned from purely theoretical to experimental and simulations. She has published several papers in leading conferences and journals in her areas of expertise. On the education front, she has been interested in increasing the enrollment and retention of minority students, particularly in the Mathematical Sciences including Computer Science, and towards this end has implemented several federally funded projects.
 
 <!--
 **rnuma6/rnuma6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
